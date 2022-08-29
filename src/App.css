@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+button {
+  background-color: blue;
+  padding: 10px 5px;
+  color:white;
+  border-radius: 5px;
+
+}
+div {
+  margin:20px;
+}
+div.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+label {
+  margin-left: 20px;
+}
+.grey {
+  color: grey;
+}
+.red {
+  color: red;
+}
+list {
+  display: flex;
+}
